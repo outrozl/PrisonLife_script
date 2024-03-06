@@ -4171,5 +4171,5 @@ game:GetService("RunService").Heartbeat:Connect(function()
 	end
 end)
 local DefaultChatSystemChatEvents = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents
-API:Notif("!noinvite to disable discord inviter",nil,true)
+API:Notif("/e noinvite to disable discord inviter, use /e cmds to get commands list",nil,true)
 CmdBarFrame:TweenPosition(UDim2.new(0.5, 0, 0.899999998, 0)-UDim2.new(0,0,.05,0),"Out","Back",.5)
