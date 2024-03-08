@@ -22,7 +22,7 @@ local PremiumActivated = API_Prem.CheckPremium()
 local Temp = {}
 local API = {}
 local Reload_Guns = {}
-local Prefix = "/e"
+local Prefix = "!"
 
 --------
 Folder.Name = "Tiger_revamp_loaded"
